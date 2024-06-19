@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 
-* [**指南**](/guide)
+* [**节点的使用**](/guide)
 * [Guide](guide.md "The greatest guide in the world")
 * [test](/test/)
 * **dfdfsd**
