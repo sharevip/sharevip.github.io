@@ -1,4 +1,4 @@
-# Qsyshare
+# ishare
 
 > [干净的搜索 Everything](https://yandex.com/)
 
