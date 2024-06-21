@@ -4,4 +4,4 @@
 * [**节点的使用**](/usenodes/)
 
 * *待完善*
-    * [one](/one/one1.md)
+    * [现有资源目录](/one/one1.md)

@@ -4,9 +4,11 @@
 vless://16b02257-31dd-4ad0-92f7-9205572478e0@ishare101.070c958111adc.workers.dev:443?encryption=none&security=tls&sni=ishare101.070c95810adc.workers.dev&fp=randomized&type=ws&host=ishare101.070c95810adc.workers.dev&path=%2F%3Fed%3D2048#ishare101.070c95810adc.workers.dev
 
 ```
+> 一个节点可以添加多次，可以按优选IP的步骤更改不同的IP使用。（**提示：最好不要超过三台设备同时使用，会影响速度或不能使用。**）
+-------
+
 # 安卓 [v2rayNG](https://github.com/2dust/v2rayNG/releases) 设置
 ![](media/17188056402319.jpg)
-> 一个节点可以添加多次，可以按5、6步更改不同的IP使用。
 
 -------
 
