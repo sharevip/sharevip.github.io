@@ -1,4 +1,4 @@
-# 介绍
+# 介绍 -  [购买](https://www.facebook.com/share/xb7VRFgGbUfGaW3U/?mibextid=LQQJ4d/)-
 所有分享来自互联网的免费资源，我只是知识的搬运工，只为您节省时间、解决问题。
 
 所有分享只做技术讨论学习，禁止非法用途传播使用。
