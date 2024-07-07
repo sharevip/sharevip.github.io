@@ -12,3 +12,17 @@
 
 >### 网盘内容分享
 * 搜索各各大神分享的资源，电影、音乐、各学科学习资料、软件、图书等。不断更新。
+
+>### 注册账号
+* 不限于以下应用
+
+| Google    | Telegram | 微信     |
+|-----------|----------|----------|
+| Facebook  | Vk       | bilibili |
+| Instagram | Discord  | 快手     |
+| WhatsApp  | ChatGPT  | QQ       |
+| X         | TikTok   | 抖音     |
+| Pixiv     | YouTube  | 陌陌     |
+| LINE      | WeChat   |          |
+| KakaoTalk |          |          |
+
