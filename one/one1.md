@@ -18,11 +18,11 @@
 
 | Google    | Telegram | 微信     |
 |-----------|----------|----------|
-| Facebook  | Vk       | bilibili |
+| [Facebook](https://www.facebook.com/share/xb7VRFgGbUfGaW3U/?mibextid=LQQJ4d/)  | Vk       | bilibili |
 | Instagram | Discord  | 快手     |
 | WhatsApp  | ChatGPT  | QQ       |
 | X         | TikTok   | 抖音     |
 | Pixiv     | YouTube  | 陌陌     |
-| LINE      | WeChat   |          |
+| [LINE](https://line.me/ti/p/HmTC6EYzju)      | WeChat   |          |
 | KakaoTalk |          |          |
 
