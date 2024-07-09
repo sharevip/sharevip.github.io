@@ -8,17 +8,17 @@ vless://16b02257-31dd-4ad0-92f7-9205572478e0@ishare101.070c958111adc.workers.dev
 -------
 
 # 安卓 [v2rayNG](https://github.com/2dust/v2rayNG/releases) 设置 
-![](media/17205251445788.jpg)
+[![](media/17205251445788.jpg)](https://www.facebook.com/aifenxiang.qsy?mibextid=LQQJ4d)
 
 
 -------
 
 # Windows [v2rayN](https://github.com/2dust/v2rayN/releases) 设置
-![](media/17205259972057.jpg)
+[![](media/17205259972057.jpg)](https://www.facebook.com/aifenxiang.qsy?mibextid=LQQJ4d)
 
 -------
 # IOS Shadowrocket设置
-![](media/17205259512168.jpg)
+[![](media/17205259512168.jpg)](https://www.facebook.com/aifenxiang.qsy?mibextid=LQQJ4d)
 
 > 如果没有二维码，就从第2步点击右上角的加号，按第3步的图片进行设置。
 
@@ -30,5 +30,5 @@ vless://16b02257-31dd-4ad0-92f7-9205572478e0@ishare101.070c958111adc.workers.dev
 
 -------
 # Mac [V2rayU](https://github.com/yanue/V2rayU/releases) 设置
-![](media/17205258941630.jpg)
+[![](media/17205258941630.jpg)](https://www.facebook.com/aifenxiang.qsy?mibextid=LQQJ4d)
 
