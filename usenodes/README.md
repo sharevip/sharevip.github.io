@@ -7,17 +7,19 @@ vless://16b02257-31dd-4ad0-92f7-9205572478e0@ishare101.070c958111adc.workers.dev
 > 一个节点可以添加多次，可以按优选IP的步骤更改不同的IP使用。（**提示：最好不要超过三台设备同时使用，会影响速度或不能使用。**）
 -------
 
-# 安卓 [v2rayNG](https://github.com/2dust/v2rayNG/releases) 设置
-![](media/17188056402319.jpg)
+# 安卓 [v2rayNG](https://github.com/2dust/v2rayNG/releases) 设置 
+![](media/17205251445788.jpg)
+
 
 -------
 
 # Windows [v2rayN](https://github.com/2dust/v2rayN/releases) 设置
-![](media/17188058128010.jpg)
+![](media/17205259972057.jpg)
 
 -------
 # IOS Shadowrocket设置
-![](media/17188065463718.jpg)
+![](media/17205259512168.jpg)
+
 > 如果没有二维码，就从第2步点击右上角的加号，按第3步的图片进行设置。
 
 > 或者用其它的设备软件导入后，再分享二维码。
@@ -28,4 +30,5 @@ vless://16b02257-31dd-4ad0-92f7-9205572478e0@ishare101.070c958111adc.workers.dev
 
 -------
 # Mac [V2rayU](https://github.com/yanue/V2rayU/releases) 设置
-![](media/17188068636158.jpg)
+![](media/17205258941630.jpg)
+
