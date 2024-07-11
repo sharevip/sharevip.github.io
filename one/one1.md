@@ -1,4 +1,4 @@
-# 介绍 -  [购买](https://www.facebook.com/share/xb7VRFgGbUfGaW3U/?mibextid=LQQJ4d/)-
+# 介绍 -  [购买](https://www.facebook.com/share/xb7VRFgGbUfGaW3U/?mibextid=LQQJ4d/)- VIP
 购买项目为教学或人工协助搜索查找网站资源，且永久可获得更新资源。
 
 所有分享来自互联网的免费资源，我只是知识的指路人，只为您节省时间、解决问题。
