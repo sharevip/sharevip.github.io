@@ -3,5 +3,6 @@
 <img src=media/IMG_19.JPEG align=“center” width=30% />
 <a>
 
-### [Telegram](https://t.me/qianshuiyu)
+### [Telegram](https://t.me/qianshuiyu)<!-- {docsify-ignore} -->
+
 </center>
