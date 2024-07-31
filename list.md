@@ -3,8 +3,7 @@
 -------
 > # 1. 雪梨老师教英语 <!-- {docsify-ignore} -->
 
-![截屏2024-07-31 14.46.28](media/%E6%88%AA%E5%B1%8F2024-07-31%2014.46.28.png)
-
+<img src=media/xueli.png align=“center” width=60% />
 
 -------
 
