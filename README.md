@@ -26,4 +26,6 @@
 <a>
 
 ### [Telegram](https://t.me/qianshuiyu) <!-- {docsify-ignore} -->
+
+邮箱：aifenxiang19@gmail.com
 </center>
