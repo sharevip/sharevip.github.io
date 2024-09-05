@@ -1,16 +1,11 @@
-# ishare <!-- {docsify-ignore} -->
 
-> [干净的搜索 Everything](https://yandex.com/)
 
-> [.epub 文件在线阅读器](https://epub-reader.online/)
 
-# 你好，才是真的好 <!-- {docsify-ignore} -->
+<center> 
+你好，才是真的好 !<!-- {docsify-ignore} -->
 
 
 -------
-
-#  [**防失联**](/guide.md) <!-- {docsify-ignore} -->
-
 <center> 
 
 <a href="https://t.me/qianshuiyu" target="_blank">
