@@ -7,4 +7,4 @@
 * [**在线小工具**](/tools.md)
 
 
-* [**联络**](../usenodes/me.md)
+* [**联络**](./usenodes/me.md)
