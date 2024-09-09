@@ -16,7 +16,10 @@ vless://16b02257-31dd-4ad0-92f7-9205572478e0@ishare101.070c958111adc.workers.dev
 # 安卓 [v2rayNG](https://github.com/2dust/v2rayNG/releases) 设置 
 下载地址：https://github.com/2dust/v2rayNG/releases
 
-[![](usenodes/media/17205251445788.jpg)](https://www.facebook.com/aifenxiang.qsy?mibextid=LQQJ4d)
+[![](media/17258575682034.jpg)
+](https://www.facebook.com/aifenxiang.qsy?mibextid=LQQJ4d)
+
+
 
 
 -------
@@ -26,11 +29,13 @@ vless://16b02257-31dd-4ad0-92f7-9205572478e0@ishare101.070c958111adc.workers.dev
 
 <b>注：新版本不支持 Windows7，Windows7下载老版本(https://github.com/2dust/v2rayN/releases/download/6.36/v2rayN-With-Core.zip )。</b>
 
-[![](usenodes/media/17205259972057.jpg)](https://www.facebook.com/aifenxiang.qsy?mibextid=LQQJ4d)
+[![](media/17258577549321.jpg)](https://www.facebook.com/aifenxiang.qsy?mibextid=LQQJ4d)
+
 
 -------
 # IOS Shadowrocket设置
-[![](usenodes/media/17205259512168.jpg)](https://www.facebook.com/aifenxiang.qsy?mibextid=LQQJ4d)
+[![](media/17258578256736.jpg)](https://www.facebook.com/aifenxiang.qsy?mibextid=LQQJ4d)
+
 
 > 如果没有二维码，就从第2步点击右上角的加号，按第3步的图片进行设置。
 
@@ -38,13 +43,14 @@ vless://16b02257-31dd-4ad0-92f7-9205572478e0@ishare101.070c958111adc.workers.dev
 
 #### **IOS Shadowrocket下载** <!-- {docsify-ignore} -->
 这是付费软件，不过有共享账号可供下载。
-![](usenodes/media/17188071864100.jpg)
+![](media/17258578676770.jpg)
+
 
 -------
 # Mac [V2rayU](https://github.com/yanue/V2rayU/releases) 设置
 下载地址：https://github.com/yanue/V2rayU/releases
 
-[![](usenodes/media/17205258941630.jpg)](https://www.facebook.com/aifenxiang.qsy?mibextid=LQQJ4d)
+[![](media/17258579070242.jpg)](https://www.facebook.com/aifenxiang.qsy?mibextid=LQQJ4d)
 
 
 -------
