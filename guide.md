@@ -12,4 +12,9 @@
 ### [Telegram](https://t.me/qianshuiyu) <!-- {docsify-ignore} -->
 
 邮箱：aifenxiang19@gmail.com
+
+-------
+![hi.001](media/hi.001.jpeg)
+
+
 </center>
