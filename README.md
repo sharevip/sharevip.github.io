@@ -1,6 +1,6 @@
 
 # 节点的使用
-下面这是我瞎编的不能用的节点，演示：
+下面这是我瞎编的不能用的节点做演示：
 ```
 vless://16b02257-31dd-4ad0-92f7-9205572478e0@ishare101.070c958111adc.workers.dev:443?encryption=none&security=tls&sni=ishare101.070c95810adc.workers.dev&fp=randomized&type=ws&host=ishare101.070c95810adc.workers.dev&path=%2F%3Fed%3D2048#ishare101.070c95810adc.workers.dev
 
