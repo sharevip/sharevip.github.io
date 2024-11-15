@@ -11,9 +11,12 @@
 
 ### [Telegram](https://t.me/qianshuiyu) <!-- {docsify-ignore} -->
 
-邮箱：aifenxiang19@gmail.com
+##### 防失联邮箱：aifenxiang19@gmail.com <br/>
+(发送失效的产品或者截图到防失联邮箱,即可收到新的产品.)
 
 -------
+
+广告
 ![hi.001](media/hi.001.jpeg)
 
 
