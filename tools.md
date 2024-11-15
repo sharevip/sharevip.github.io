@@ -9,3 +9,9 @@
   <br/>
   <br/>
   [安卓应用下载 1](https://apkpure.com/cn/) <br/> [安卓应用下载 2](https://cn.aptoide.com/group/applications)  <br/>[安卓应用下载 3](https://cn.uptodown.com/)
+
+
+  ----------
+  ## 远程协助安装
+
+  请先下载并安装远程软件:&nbsp;[向日葵](https://sunlogin.oray.com/download?categ=personal&sys=mac&ici=sunlogin_navigation)
