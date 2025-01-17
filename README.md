@@ -21,3 +21,10 @@ vless://16b02257-31dd-4ad0-92f7-9205572478e0@ishare101.070c958111adc.workers.dev
 
 ##### [点击这里下载 PDF 文件](https://sharevip.github.io/media/a.pdf)  查看更方便.(获取密码请点击右上角联系我)<!-- {docsify-ignore} -->
 <embed src="/media/a.pdf" width="100%" height="800" type="application/pdf">
+
+
+------
+**声明：**
+购买项目为教学或人工协助搜索查找网站资源，且永久可获得更新资源。
+所有分享来自互联网的免费资源，我只是知识的指路人，只为您节省时间、解决问题。
+所有分享只做技术讨论学习，禁止非法用途传播使用。

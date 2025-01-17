@@ -7,7 +7,7 @@
 * [**软件下载**](/tools.md)
 
 
-* [**联络**](guide.md)
+* [**联系我介绍**](guide.md)
 
 <hr style="border: 2px solid red; margin: 20px auto; width: 90%;">
 

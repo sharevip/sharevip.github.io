@@ -7,6 +7,8 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+
+
 </head>
 <body>
     <nav>
@@ -15,14 +17,16 @@
 
     </nav>
   <div id="app"></div>
+  
   <script>
+  
     window.$docsify = {
       name: 'ShareVIP',
       repo: '',
       loadSidebar: true,
       subMaxLevel: 4,
      auto2top: true,
-
+    
      executeScript: true,
      loadNavbar: true,
      MacLevel: 4,
@@ -45,7 +49,35 @@
         namespace: 'website-1',
         },
     }
+    
+
   </script>
+  
+<!-- 添加自定义脚本 -->
+  <script>
+    // 在 Docsify 加载完成后绑定事件
+    document.addEventListener('DOMContentLoaded', function () {
+      // 监听 Docsify 的页面更换事件
+      window.$docsify.plugins = [].concat(function (hook, vm) {
+        hook.doneEach(function () {
+          const copyEmailButton = document.getElementById('copyEmailButton');
+          if (copyEmailButton) {
+            copyEmailButton.addEventListener('click', function () {
+              const email = "aifenxiang19@gmail.com"; 
+              navigator.clipboard.writeText(email)
+                .then(() => {
+                  alert("邮箱已复制：" + email);
+                })
+                .catch(err => {
+                  console.error("复制失败：", err);
+                });
+            });
+          }
+        });
+      });
+    });
+  </script>
+  
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
