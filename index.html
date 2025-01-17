@@ -54,29 +54,41 @@
   </script>
   
 <!-- 添加自定义脚本 -->
-  <script>
-    // 在 Docsify 加载完成后绑定事件
-    document.addEventListener('DOMContentLoaded', function () {
-      // 监听 Docsify 的页面更换事件
-      window.$docsify.plugins = [].concat(function (hook, vm) {
-        hook.doneEach(function () {
-          const copyEmailButton = document.getElementById('copyEmailButton');
-          if (copyEmailButton) {
-            copyEmailButton.addEventListener('click', function () {
-              const email = "aifenxiang19@gmail.com"; 
+ <script>
+  document.addEventListener('DOMContentLoaded', function () {
+    window.$docsify.plugins = [].concat(function (hook) {
+      hook.doneEach(function () {
+        const copyEmailButton = document.getElementById('copyEmailButton');
+        const emailDisplay = document.getElementById('emailDisplay');
+
+        if (copyEmailButton) {
+          const email = "aifenxiang19@gmail.com"; // 替换为你的邮箱
+
+          // 绑定按钮点击事件
+          copyEmailButton.addEventListener('click', function () {
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+              // 优先尝试复制到剪贴板
               navigator.clipboard.writeText(email)
                 .then(() => {
                   alert("邮箱已复制：" + email);
                 })
-                .catch(err => {
-                  console.error("复制失败：", err);
+                .catch(() => {
+                  // 如果复制失败，显示邮箱
+                  emailDisplay.textContent = "邮箱: " + email;
+                  emailDisplay.style.display = "block";
                 });
-            });
-          }
-        });
+            } else {
+              // 如果剪贴板 API 不可用，直接显示邮箱
+              emailDisplay.textContent = "邮箱: " + email;
+              emailDisplay.style.display = "block";
+            }
+          });
+        }
       });
     });
-  </script>
+  });
+</script>
+
   
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
