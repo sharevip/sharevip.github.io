@@ -19,14 +19,14 @@ vless://16b02257-31dd-4ad0-92f7-9205572478e0@ishare101.070c958111adc.workers.dev
 
 ## 文本教程
 
-##### [点击这里下载 PDF 文件](https://sharevip.github.io/media/a.pdf)  查看更方便.(获取密码请点击右上角联系我)<!-- {docsify-ignore} -->
+### [点击这里下载 PDF 文件](https://sharevip.github.io/media/a.pdf)  查看更方便.(获取密码请点击右上角联系我)<!-- {docsify-ignore} -->
 <embed src="/media/a.pdf" width="100%" height="800" type="application/pdf">
 
 ## 视频教程
- > [安卓v2rayNG](https://sharevip.pages.dev/)<br/>
+ > ### [安卓v2rayNG](https://sharevip.pages.dev/)<br/>
 
  
- > [登录苹果国外ID](https://sharevip.github.io/media/1751933046883283.MP4)<br/>
+ > ### [登录苹果国外ID](https://sharevip.github.io/media/1751933046883283.MP4)<br/>
  <h3>通过 App Store 更换 Apple ID </h3>
 
  
@@ -55,7 +55,7 @@ vless://16b02257-31dd-4ad0-92f7-9205572478e0@ishare101.070c958111adc.workers.dev
 </video>
 
 
- > [苹果Shadowrocket](https://sharevip.github.io/media/1751950491771183.MP4)<br/>
+ > ### [苹果Shadowrocket](https://sharevip.github.io/media/1751950491771183.MP4)<br/>
   <video width="30%" height="auto" controls>
   <source src="media/1751950491771183.MP4" type="video/mp4">
   您的浏览器不支持视频播放。
