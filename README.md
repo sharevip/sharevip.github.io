@@ -24,6 +24,7 @@ vless://16b02257-31dd-4ad0-92f7-9205572478e0@ishare101.070c958111adc.workers.dev
 
 ## 视频教程
   [v2ray](https://sharevip.pages.dev/)
+  <video src="media/1751933046883283.MP4" controls width="600"></video>
   
 ------
  **声明：**
