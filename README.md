@@ -23,9 +23,9 @@ vless://16b02257-31dd-4ad0-92f7-9205572478e0@ishare101.070c958111adc.workers.dev
 <embed src="/media/a.pdf" width="100%" height="800" type="application/pdf">
 
 ## 视频教程
-  [v2ray](https://sharevip.pages.dev/)
-  [登录苹果国外ID](https://sharevip.github.io/media/1751933046883283.MP4)
- <video width="100%" height="auto" controls>
+  [v2ray](https://sharevip.pages.dev/)<br/>
+  [登录苹果国外ID](https://sharevip.github.io/media/1751933046883283.MP4)<br/>
+ <video width="50%" height="auto" controls>
   <source src="media/1751933046883283.MP4" type="video/mp4">
   您的浏览器不支持视频播放。
 </video>
