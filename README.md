@@ -27,6 +27,26 @@ vless://16b02257-31dd-4ad0-92f7-9205572478e0@ishare101.070c958111adc.workers.dev
 
  
  > [登录苹果国外ID](https://sharevip.github.io/media/1751933046883283.MP4)<br/>
+ ## 通过 App Store 更换 Apple ID 
+- ### 打开 App Store：
+     - 在 iPhone 主屏幕上找到并点击“App Store”应用。
+
+- ### 进入账户设置：
+     - 点击右上角的个人头像（或账户图标）。
+
+- ### 退出当前账户：
+     - 滑动到页面底部，点击“退出登录”。
+
+- ### 登录新 Apple ID：
+     - 再次点击右上角头像，输入新的 Apple ID（电子邮件或电话号码）和密码。
+     - 点击最下面的“其它选项”
+     - 点击“不升级”
+  
+- ### 完成登录：
+     - 登录后，App Store 将切换到新 Apple ID 关联的账户，可下载该账户所在国家/地区的应用。
+     - 建议重启 App Store 应用以确保切换生效。
+
+
  <video width="30%" height="auto" controls>
   <source src="media/1751933046883283.MP4" type="video/mp4">
   您的浏览器不支持视频播放。
