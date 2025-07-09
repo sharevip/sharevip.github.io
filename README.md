@@ -26,19 +26,19 @@ vless://16b02257-31dd-4ad0-92f7-9205572478e0@ishare101.070c958111adc.workers.dev
  > ### [安卓 v2rayNG](https://sharevip.pages.dev/)<br/>
   
   <video width="30%" height="auto" controls>
-  <source src="media/1.MOV" type="video/MOV">
+  <source src="media/1.MOV" type="video/quicktime">
   您的浏览器不支持视频播放。
 </video>
    <video width="30%" height="auto" controls>
-  <source src="media/2.MOV" type="video/MOV">
+  <source src="media/2.MOV" type="video/quicktime">
   您的浏览器不支持视频播放。
 </video>
    <video width="30%" height="auto" controls>
-  <source src="media/3.MOV" type="video/MOV">
+  <source src="media/3.MOV" type="video/quicktime">
   您的浏览器不支持视频播放。
 </video>
    <video width="30%" height="auto" controls>
-  <source src="media/4.MOV" type="video/MOV">
+  <source src="media/4.MOV" type="video/quicktime">
   您的浏览器不支持视频播放。
 </video>
 
