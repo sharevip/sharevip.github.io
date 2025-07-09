@@ -25,22 +25,7 @@ vless://16b02257-31dd-4ad0-92f7-9205572478e0@ishare101.070c958111adc.workers.dev
 ## 视频教程
  > ### [安卓 v2rayNG](https://sharevip.pages.dev/)<br/>
   
-  <video width="30%" height="auto" controls>
-  <source src="media/1.m4v" type="video/mp4">
-  您的浏览器不支持视频播放。
-</video>
-   <video width="30%" height="auto" controls>
- <source src="media/2.mp4" type="video/mp4">
-  您的浏览器不支持视频播放。
-</video>
-   <video width="30%" height="auto" controls>
-  <source src="media/3.mp4" type="video/mp4">
-  您的浏览器不支持视频播放。
-</video>
-   <video width="30%" height="auto" controls>
-   <source src="media/4.mp4" type="video/mp4">
-  您的浏览器不支持视频播放。
-</video>
+ 
 
  
  > ### [登录苹果国外ID](https://sharevip.github.io/media/1751933046883283.MP4)<br/>
