@@ -3,7 +3,7 @@
 
 
 -------
-<center> 
+
   [人工服务](https://ok.shareoto.trade) 
 
 </center>
