@@ -4,7 +4,7 @@
 
 -------
 
- 
+ <link href="https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap" rel="stylesheet">
 <style>
  .my-button-3d {
   display: inline-block;
@@ -78,7 +78,7 @@
 }
 </style>
 
-<a href="https://ok.shareoto.trade" class="my-button-3d">人工服务</a>
+<a href="https://ok.shareoto.trade" class="my-button-3d" style="color: #ffffff;">人工服务</a>
 <br/>
   温馨提示：<br/>
   请耐心等待客服，5分钟内会有回复。<br/>
