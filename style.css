@@ -70,3 +70,29 @@
 .my-button-3d:hover::after {
   opacity: 1;
 }
+
+.custom-swal-popup {
+    border-radius: 15px;
+    padding: 20px;
+    background: #f9f9f9;
+}
+.custom-swal-title {
+    font-size: 24px;
+    color: #333;
+    font-weight: bold;
+}
+.custom-swal-content {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.6;
+}
+.custom-swal-button {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+.custom-swal-button:hover {
+    background-color: #45a049;
+}
