@@ -17,3 +17,7 @@ function showFriendlyAlert(event) {
         }
     });
 }
+function showVideo() {
+    var video = document.getElementById("myVideo");
+    video.style.display = "block";
+}
