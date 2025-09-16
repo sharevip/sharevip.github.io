@@ -18,6 +18,7 @@ function showFriendlyAlert(event) {
     });
 }
 function showVideo() {
+    event.preventDefault(); 
     var video = document.getElementById("myVideo");
     video.style.display = "block";
 }
