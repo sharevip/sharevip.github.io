@@ -79,9 +79,10 @@ vless://16b02257-31dd-4ad0-92f7-9205572478e0@ishare101.070c958111adc.workers.dev
 </video>
 
  > ### [iOS DNS设置](https://sharevip.github.io/media/1757945389918068.MP4)<br/>
-  <video width="30%" height="auto" controls>
-  <source src="media/1757945389918068.MP4" type="video/mp4">
-  您的浏览器不支持视频播放。
+ <a href="#" onclick="showVideo()">观看</a>
+ <video width="30%" height="auto" controls style="display: none;" id="myVideo">
+    <source src="media/1757945389918068.MP4" type="video/mp4">
+    您的浏览器不支持视频播放。
 </video>
   
 ------
