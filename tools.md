@@ -22,4 +22,4 @@
   ----------
   ## 远程协助
 
-  请先下载并安装远程软件:&nbsp;[向日葵](https://sunlogin.oray.com/download?categ=personal&sys=mac&ici=sunlogin_navigation)&nbsp;&nbsp;[ToDesk](https://www.todesk.com/download.html)
+  请先下载并安装远程软件:&nbsp;[向日葵](https://sunlogin.oray.com/download?categ=personal&sys=mac&ici=sunlogin_navigation)&nbsp;&nbsp;[ToDesk](https://www.todesk.com/download.html)&nbsp;&nbsp;[anydesk](https://anydesk.com/zhs/downloads/)&nbsp;&nbsp;
