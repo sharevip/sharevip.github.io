@@ -28,3 +28,4 @@
   ----------
   ## 测速
   [Google Speedtest](https://fiber.google.com/speedtest/)
+  [netflix fast](https://fast.com/)
