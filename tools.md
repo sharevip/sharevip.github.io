@@ -1,6 +1,7 @@
 
   [.epub 文件在线阅读器](https://epub-reader.online/) <br/>
   
+
   [代理工具](https://shareload.web.app)
   
  ## 转换
@@ -23,3 +24,7 @@
   ## 远程协助
 
   请先下载并安装远程软件:&nbsp;[向日葵](https://sunlogin.oray.com/download?categ=personal&sys=mac&ici=sunlogin_navigation)&nbsp;&nbsp;[ToDesk](https://www.todesk.com/download.html)&nbsp;&nbsp;[AnyDesk](https://anydesk.com/zhs/downloads/)&nbsp;&nbsp;
+  
+  ----------
+  ## 测速
+  [Google Speedtest](https://fiber.google.com/speedtest/)
