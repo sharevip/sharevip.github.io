@@ -2,7 +2,7 @@
 # 节点的使用
 
 ##### 其实使用很简单,总共3步:
-1.[下载](https://shareload.web.app)并安装软件. [🔗](https://shareload.web.app)<br/>
+1.[下载](https://shareworld.web.app)并安装软件. [🔗](https://shareworld.web.app)<br/>
 2.导入节点.<br/>
 3.一键连接.<br/>
 
